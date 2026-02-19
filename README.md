@@ -114,7 +114,7 @@ ipconfig /renew</code></pre>
 
 <p>Below is a screenshot showing the DHCP server configuration and IP assignment:</p>
 
-<img src="topology.png" alt="DHCP Configuration Screenshot" width="800">
+<img src="topology1.png" alt="DHCP Configuration Screenshot" width="800">
 
 <p><em>Figure 1: DHCP Server Successfully Assigning IP Address</em></p>
 
